@@ -1,4 +1,4 @@
-### Smoke Prediction Using Machine Learning
+# Smoke Prediction Using Machine Learning
 
 #### Overview
 This project focuses on developing a smoke prediction model using Logistic Regression and Random Forest classifiers. The aim is to create a model that can accurately predict whether an individual smokes based on various health and demographic attributes.
